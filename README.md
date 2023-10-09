@@ -1,2 +1,2 @@
 # College
-for college purpose
+BIM207 HOMEWORK REPOSITORY
